@@ -1,0 +1,6 @@
+# no .class files
+*.class
+# no .idea folder
+.idea/
+#no .iml
+**/*.iml
